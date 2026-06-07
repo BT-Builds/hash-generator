@@ -56,3 +56,6 @@ Health check endpoint (no auth required).
 - sha256
 - sha384
 - sha512
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/hash-generator/main/postman_collection.json)
